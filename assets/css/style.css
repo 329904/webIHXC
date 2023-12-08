@@ -1125,6 +1125,19 @@ section {
   }
   
 }
+
+@media (max-width: 530px){
+  .products-novidesa .content{
+    padding: 0px 0px 55px 0px;
+  }
+  
+  .products-novidesa .content ul {
+    list-style: none;
+    padding: 0px 0px;
+    color: #fff;
+  }
+}
+
 /*--------------------------------------------------------------
 # Products-Cempanel
 --------------------------------------------------------------*/
