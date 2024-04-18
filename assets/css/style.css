@@ -813,6 +813,10 @@ section {
   border-bottom: 5px solid #fff;
 }
 
+.services #cfps-card{
+  padding: 40px 30px 60px;
+}
+
 @media (max-width: 1199px) {
   .services .product-card{
     margin: 20px 0px;
@@ -839,7 +843,6 @@ section {
 .services #cfps-card .card-img-top{
   height: 102px;
   object-fit: contain;
-  width: min-content;
 }
 
 .services #cfps-card h3{
