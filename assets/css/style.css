@@ -1147,6 +1147,14 @@ section {
   filter: drop-shadow(0px 0px 4px rgba(0,0,0,0.42));
 }
 
+.products-novidesa .panels .logo span{
+  font-size: 90px;
+  font-weight: 700;
+  color: #ffffff;
+  font-family: open sans;
+
+}
+
 .products-novidesa .panels p{
   color: #fff;
 }
