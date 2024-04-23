@@ -5,9 +5,9 @@ $email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$headers = 'From: cotizaciones@grupoihc.com.mx';
+$headers = 'From: ';
 
-$to = "jav.tarango@gmail.com";
+$to = "";
 
 $error = "El formulario se encuentra vacío";
 $nameError = "El campo de nombre es requerido";
